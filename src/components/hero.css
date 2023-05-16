@@ -1,0 +1,14 @@
+.hero{
+    background-image: url(../assets/main-background.png);
+}
+
+.divisor{
+    background-image: url(../assets/divisor.png);
+    height: 100px;
+}
+
+.contact{
+   background-image: url(../assets/main-background.png);
+   background-position: 50%;
+    height: 300px;
+}
